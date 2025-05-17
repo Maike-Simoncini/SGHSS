@@ -57,4 +57,4 @@ SGHSS/
 ```
 
 ## 🔗 Link do Repositório 
-https://maike-simoncini.github.io/SGHSS/
+https://github.com/Maike-Simoncini/SGHSS.git
