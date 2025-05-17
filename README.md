@@ -1,11 +1,15 @@
+
 ---
 
 # 🏥 Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) 
 
-## Descrição
-Sistema desenvolvido para centralizar o cadastro de pacientes, agendamento de consultas, telemedicina, gestão de profissionais de saúde e administração hospitalar.
+## 📊 Descrição
+Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end do Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS).
 
-## 🚀 Tecnologias Utilizadas 
+## 🎯 Objetivo
+Desenvolvido para a instituição VidaPlus, centralizando o cadastro de pacientes, agendamento de consultas, telemedicina, gestão de profissionais de saúde e administração hospitalar.
+
+## 🚀 Tecnologias 
 - Node.js
 - Express.js
 - MySQL/PostgreSQL
@@ -16,7 +20,7 @@ Sistema desenvolvido para centralizar o cadastro de pacientes, agendamento de co
 ## ⚙️ Configuração 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/SGHSS.git 
+   git clone https://github.com/Maike-Simoncini/SGHSS.git 
    cd SGHSS
    ```
 
@@ -39,7 +43,7 @@ Sistema desenvolvido para centralizar o cadastro de pacientes, agendamento de co
 
 ---
 
-### 🎯 Funcionalidades 
+### 🔧 Funcionalidades 
 - **Cadastro e Atendimento de Pacientes**: Cadastro, histórico clínico, agendamento e telemedicina.
 - **Gestão de Profissionais de Saúde**: Gerenciamento de agendas e prontuários.
 - **Administração Hospitalar**: Controle de leitos, suprimentos e relatórios financeiros.
@@ -48,10 +52,10 @@ Sistema desenvolvido para centralizar o cadastro de pacientes, agendamento de co
 
 ---
 
-### 📂 Estrutura de Pastas 
+### 📂 Estrutura
 ```
 SGHSS/
-├── Node.js0                   # Documentação do projeto
+├── Node.js0                    # Documentação do projeto
 ├── package.json                # Configuração do Node.js
 ├── server.js                   # Arquivo principal do servidor
 ├── models/                     # Modelos de dados
@@ -64,10 +68,5 @@ SGHSS/
 
 ### 🔗 Link do Repositório 
 🔗 [Repositório no GitHub](https://github.com/seu-usuario/SGHSS)
-
----
-
-### Considerações Finais 📝
-Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end do Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS).
 
 ---
