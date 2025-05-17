@@ -1,10 +1,6 @@
 
----
-
-# 🏥 Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) 
-
-## 📊 Descrição
-Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end do Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS).
+# Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS)
+Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end.
 
 ## 🎯 Objetivo
 Desenvolvido para a instituição VidaPlus, centralizando o cadastro de pacientes, agendamento de consultas, telemedicina, gestão de profissionais de saúde e administração hospitalar.
@@ -41,18 +37,14 @@ Desenvolvido para a instituição VidaPlus, centralizando o cadastro de paciente
    npm start
    ```
 
----
-
-### 🔧 Funcionalidades 
+## 🔧 Funcionalidades 
 - **Cadastro e Atendimento de Pacientes**: Cadastro, histórico clínico, agendamento e telemedicina.
 - **Gestão de Profissionais de Saúde**: Gerenciamento de agendas e prontuários.
 - **Administração Hospitalar**: Controle de leitos, suprimentos e relatórios financeiros.
 - **Telemedicina**: Videochamadas seguras e prontuários online.
 - **Segurança e Compliance**: Autenticação segura e criptografia de dados.
 
----
-
-### 📂 Estrutura
+## 📂 Estrutura
 ```
 SGHSS/
 ├── Node.js0                    # Documentação do projeto
@@ -64,9 +56,5 @@ SGHSS/
 └── migrations/                 # Scripts de migração do banco de dados
 ```
 
----
-
-### 🔗 Link do Repositório 
-🔗 [Repositório no GitHub](https://github.com/seu-usuario/SGHSS)
-
----
+## 🔗 Link do Repositório 
+https://github.com/seu-usuario/SGHSS
