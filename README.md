@@ -1,6 +1,6 @@
 
 # Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS)
-Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end.
+*Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end.*
 
 ## 🎯 Objetivo
 Desenvolvido para a instituição VidaPlus, centralizando o cadastro de pacientes, agendamento de consultas, telemedicina, gestão de profissionais de saúde e administração hospitalar.
@@ -56,5 +56,5 @@ SGHSS/
 └── migrations/                 # Scripts de migração do banco de dados
 ```
 
-## 🔗 Link do Repositório 
+## 🔗 Repositório 
 https://github.com/Maike-Simoncini/SGHSS.git
