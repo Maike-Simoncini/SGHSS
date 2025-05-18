@@ -1,6 +1,6 @@
 
 # Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS)
-*Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end.*
+Projeto Multidisciplinar com ênfase no Desenvolvimento Back-end.
 
 ## 🎯 Objetivo
 O Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) foi desenvolvido para atender às necessidades da instituição VidaPlus, centralizando as operações de gestão hospitalar e serviços de saúde.
@@ -19,16 +19,16 @@ O Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) foi desenvolvid
 
 3. Configure as variáveis de ambiente:
 
-- Renomeie o arquivo .env.example para .env.
-  
-- Preencha as variáveis com suas credenciais de banco de dados e segredo JWT:
+   - Renomeie o arquivo .env.example para .env.
+
+   - Preencha as variáveis com suas credenciais de banco de dados e segredo JWT:
    ```bash
-     PORT=3000
-     DB_NAME=sgdss_db
-     DB_USER=root
-     DB_PASSWORD=senha123
-     DB_HOST=localhost
-     JWT_SECRET=segredo_jwt_supersecreto
+   PORT=3000
+   DB_NAME=sgdss_db
+   DB_USER=root
+   DB_PASSWORD=senha123
+   DB_HOST=localhost
+   JWT_SECRET=segredo_jwt_supersecreto
    ```
 
      
