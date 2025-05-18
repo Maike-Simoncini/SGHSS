@@ -19,9 +19,9 @@ O Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) foi desenvolvid
 
 3. Configure as variáveis de ambiente:
 
-   - Renomeie o arquivo .env.example para .env.
+- Renomeie o arquivo .env.example para .env.
 
-   - Preencha as variáveis com suas credenciais de banco de dados e segredo JWT:
+- Preencha as variáveis com suas credenciais de banco de dados e segredo JWT:
    ```bash
    PORT=3000
    DB_NAME=sgdss_db
