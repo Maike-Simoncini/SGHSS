@@ -18,22 +18,26 @@ O Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) foi desenvolvid
    ```
 
 3. Configure as variáveis de ambiente:
-   - Renomeie o arquivo .env.example para .env.
-   - Preencha as variáveis com suas credenciais de banco de dados e segredo JWT:
-     env
+
+- Renomeie o arquivo .env.example para .env.
+  
+- Preencha as variáveis com suas credenciais de banco de dados e segredo JWT:
+   ```bash
      PORT=3000
      DB_NAME=sgdss_db
      DB_USER=root
      DB_PASSWORD=senha123
      DB_HOST=localhost
      JWT_SECRET=segredo_jwt_supersecreto
+   ```
+
      
-4. Execute as migrações do banco de dados:
+5. Execute as migrações do banco de dados:
    ```bash
    node migrations/create_tables.sql
    ```
 
-5. Inicie o servidor:
+6. Inicie o servidor:
    ```bash
    npm start
    ```
