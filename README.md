@@ -90,9 +90,8 @@ O Sistema de Gestão Hospitalar e de Serviços de Saúde (SGHSS) foi desenvolvid
 ## 📂 Estrutura
 ```
 SGHSS/
-├── README.md                     # Documentação básica do projeto
-├── package.json                  # Arquivo de configuração do Node.js
-├── .1. 0                         # Modelo de variáveis de ambiente
+├── README.md                     # Documentação do projeto
+├── package.json                  # Arquivo de configuração do Node.js                        
 ├── server.js                     # Arquivo principal do servidor
 ├── config/                       # Configurações globais
 │   └── db.js                     # Configuração da conexão com o banco de dados
@@ -100,13 +99,10 @@ SGHSS/
 │   ├── Paciente.js               # Modelo de Paciente
 │   ├── Profissional.js           # Modelo de Profissional
 │   ├── Consulta.js               # Modelo de Consulta
-│   ├── LogAuditoria.js           # Modelo de Logs de Auditoria
-│   └── ...                       # Outros modelos
-├── routes/                       # Rotas da API
-│   ├── 1. 7                      # Rotas relacionadas a pacientes
+│   └── LogAuditoria.js           # Modelo de Logs de Auditoria                    
+├── routes/                       # Rotas da API                  
 │   ├── profissionalRoutes.js     # Rotas relacionadas a profissionais
 │   ├── consultaRoutes.js         # Rotas relacionadas a consultas
-│   ├── 2. 0                      # Rotas de autenticação
 │   └── logRoutes.js              # Rotas de logs de auditoria
 ├── controllers/                  # Controladores (lógica de negócio)
 │   ├── pacienteController.js     # Lógica para pacientes
